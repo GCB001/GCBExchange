@@ -98,12 +98,19 @@ R9 digital asset transactions so block chain technology as the underlying archit
 https://github.com/R9Gateway/GCBExchange
 
 ## 官方网站：
-http://r9.gloriouspay.com
-http://icloud.gloriouspay.com
+http://radar9.gc9cbank.com
+http://ex.gc9cbank.com
+http://globalcash.in
 
 ## 企业文化：
 http://WIKI.gc9cbank.com
 
 ## 钱包地址：
-http://gcbcoin.gc9cbank.com
+http://www.gc9cbank.com
 https://gcbcoin.asia
+
+## 博客网站
+https://radar9.co
+
+## 开源 Cloud9
+https://c9.io
