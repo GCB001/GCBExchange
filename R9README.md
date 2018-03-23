@@ -1,4 +1,4 @@
-# R9全球数字资产交易所
+# R9全球数字资产交易所 云上贵州资产链
 ## 开发总揽：
    就在全球瞩目数字货币的区块链基数将给其他行业带来巨大商机、一个全球开放的金融支付网络R9系统---区块链，全球领先的区块链技术，可享誉四个第一：中国第一个、唯一的一个真正的数字货币发行系统；第一个由中国走向世界的国际大金融项目；第一个中国天才计算机科学家；第一个全球在时间、空间、速度等方面增长价值最大的虚拟货币。
 
@@ -92,16 +92,19 @@ R9全球数字资产交易所是以区块链技术为底层架构的去中心化
 ## 发行说明：
 R9数字资产交易所以区块链技术为底层架构，源代码公开，保障平台交易公开透明可查询；第三方企业或个人可基于R9区块链技术进行二次开发，创建新的产品和应用。同时，R9交易所将不断发挥技术优势，实现更广泛领域的创新应用和行业叠加 。
 
+## 开发文档：
+http://acchain.gcb.li/acchain_install.html
+
 ## 开源代码：
-https://github.com/R9Gateway/GCBExchange
+https://github.com/gcbpay/acchain
 
 ## 官方网站：
-http://r9.gloriouspay.com
-http://icloud.gloriouspay.com
+http://acchain.gcb.li/register.html?invitecode=029294
+http://acchain.gcb.li/assets_link.html
 
-## 企业文化：
-http://WIKI.gc9cbank.com
+## 资产发行：
+http://acchain.gcb.li/help.html
 
 ## 钱包地址：
-http://gcbcoin.gc9cbank.com
-https://gcbcoin.asia
+http://acchain.gcb.li/download.html
+http://acchain.gcb.li/download.html
